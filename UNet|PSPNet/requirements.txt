@@ -1,0 +1,13 @@
+h5py
+imageio>=2.9.0
+imgaug>=0.4.0
+keras=2.3.1  
+numpy=1.18.5  
+opencv-python-headless=4.4.0.46   
+tensorflow=2.1.0   
+yacs=0.1.8    
+tqdm=4.50.2    
+imageio=2.9.0   
+scikit-image=0.17.2   
+Shapely=1.7.1   
+tifffile=2020.9.3   
