@@ -94,7 +94,7 @@ python tools/test.py --cfg experiments/cityscapes/seg_hrnet_w48_train_512x1024_s
 
 ### Improvement Plan  
 | Detail  |  
-| :--: | :--: |  
+| :--: |  
 | Loss Function: Simple Cross Entropy   | 
 | Loss Function: Weighted Cross Entropy |  
 | Loss Function: Dice Loss  |  
