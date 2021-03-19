@@ -187,8 +187,8 @@ new_model.train(
 ```
 
 ### Improvement Plan  
-| Detail  |. 
-| :--: | :--: |  
+| Detail  |
+| :--:  |  
 | Loss Function: Simple Cross Entropy  | 
 | Loss Function: Weighted Cross Entropy  |  
 | Loss Function: Dice Loss   |  
