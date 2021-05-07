@@ -4,7 +4,7 @@ Computer Vision - Semantic Segmentation
 
 | model                | Base Model    | Segmentation Model | Acc  | Mean IoU | Performance on Visualisation |   
 | :--:                 | :--:          | :--:               | :--: | :--:     | :--:   |  
-| HRNetV2-W18-Small-v1 | ImageNet      | HRNet              | 96.5%| 83%      | Good at small object and boundary pred   | 
+| HRNetV2-W18-Small-v1 | HRNet         | HRNet              | 96.5%| 83%      | Good at small object and boundary pred   | 
 | resnet50_pspnet      | Resnet-50     | PSPNet             | 91%  | 43%      | Bad, Pred Imbalanced    | 
 | vgg_unet             | VGG 16        | U-Net              | 96%  | 75%      | Overall good    | 
 | unet                 | NA            | U-Net              | 91%  | 25%      | Bad, Pred Imbalanced    | 
