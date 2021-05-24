@@ -12,6 +12,6 @@ Computer Vision - Semantic Segmentation
 
 
 ## Australia Prediction Example, Label -Unet HRNet
-<img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_1.png" width="250"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_.png" width="250"/><div align="center"></center><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20__hrnet.png" width="250"/></center> 
+<div align="center"><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_1.png" width="250"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_.png" width="250"/></center><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20__hrnet.png" width="250"/></center> 
 
 <div align="center"><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/test_215_.png" width="250"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/test_215_1.png" width="250"/></center><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/test_215__hrnet.png" width="250"/></center>   
